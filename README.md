@@ -14,5 +14,5 @@ I am always eager to learn and grow. Currently, I am exploring advanced machine 
 
 📫 Get in Touch
 Email: ahirwal.devendra09@gmail.com
-LinkedIn: linkedin.com/in/devendraahirwal009
+LinkedIn:  linkedin.com/in/devendraahirwal009
 
