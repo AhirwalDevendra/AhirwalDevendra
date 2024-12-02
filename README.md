@@ -6,7 +6,7 @@ I enjoy working with data to solve complex problems and drive decision-making.
 Data Analysis: SQL, Python, Excel, Power BI
 Data Visualization: Creating intuitive and insightful dashboards and reports
 Problem Solving: Analyzing complex data sets to find trends and patterns
-📜 Certification
+📜 Certification: 
 Data science masters from PW Skills
 
 🌱 Learning and Growth
