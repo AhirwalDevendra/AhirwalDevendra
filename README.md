@@ -1,18 +1,32 @@
-Devendra Ahirwal
-Hi there! I'm Devendra Ahirwal, a passionate data analyst with a knack for turning data into actionable insights. With a solid foundation in SQL, Python, Excel, and Power BI, 
-I enjoy working with data to solve complex problems and drive decision-making.
+# Devendra Ahirwal – Data Analyst
 
-🛠️ Skills:
-Data Analysis: SQL, Python, Excel, Power BI
-Data Visualization: Creating intuitive and insightful dashboards and reports
-Problem Solving: Analyzing complex data sets to find trends and patterns
-📜 Certification: 
-Data science masters from PW Skills
+Welcome to my GitHub profile! I'm **Devendra Ahirwal**, a passionate **Data Analyst** focused on turning raw data into actionable insights. I specialize in **SQL**, **Python**, **Excel**, and **Power BI**, and I enjoy using these tools to solve real-world problems and contribute to data-driven decision-making.
 
-🌱 Learning and Growth
-I am always eager to learn and grow. Currently, I am exploring advanced machine learning techniques and their applications in data analysis.
+## 🛠️ **Skills & Tools**
+- **Data Analysis**: SQL, Python (Pandas, NumPy), Excel, Power BI
+- **Data Visualization**: Creating interactive dashboards and reports using Power BI, Python libraries (Matplotlib, Seaborn, Plotly)
+- **Problem Solving**: Extracting and analyzing complex data to uncover trends and actionable insights
+- **Version Control**: Git, GitHub
 
-📫 Get in Touch
-Email: ahirwal.devendra09@gmail.com
-LinkedIn:  www.linkedin.com/in/devendraahirwal009
+## 📜 **Certifications**
+- **Data Science Master's** from **PW Skills**
+
+## 🌱 **Current Focus**
+I’m continually learning and evolving in the field of **Data Analysis**. Right now, I’m diving into **Machine Learning** concepts to enhance my data analysis capabilities.
+
+## 🗂️ **Notable Projects**
+Here are some of my key projects:
+- **[Project 1: Sales Analysis Dashboard](link_to_your_project)**: A detailed analysis of sales data, including trend analysis and forecasting using Power BI.
+- **[Project 2: E-commerce Data Insights](link_to_your_project)**: Data cleaning and analysis using Python to uncover patterns in customer purchasing behavior.
+- **[Project 3: Financial Data Modeling](link_to_your_project)**: Python and Excel-based models to predict and analyze financial metrics.
+
+## 📫 **Get in Touch**
+I’m always open to new opportunities, collaborations, or discussions on data analysis and visualization. Feel free to reach out!
+
+- **Email**: [ahirwal.devendra09@gmail.com](mailto:ahirwal.devendra09@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/devendraahirwal009](https://www.linkedin.com/in/devendraahirwal009)
+
+---
+
+Thank you for visiting my GitHub! 🙏
 
