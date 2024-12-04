@@ -2,7 +2,7 @@ Devendra Ahirwal
 Hi there! I'm Devendra Ahirwal, a passionate data analyst with a knack for turning data into actionable insights. With a solid foundation in SQL, Python, Excel, and Power BI, 
 I enjoy working with data to solve complex problems and drive decision-making.
 
-🛠️ Skills
+🛠️ Skills:
 Data Analysis: SQL, Python, Excel, Power BI
 Data Visualization: Creating intuitive and insightful dashboards and reports
 Problem Solving: Analyzing complex data sets to find trends and patterns
