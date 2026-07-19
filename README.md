@@ -18,7 +18,7 @@ I’m continually learning and evolving in the field of **Data Analysis**. Right
 Here are some of my key projects:
 - **[Project 1:EDA on Online Sales](https://github.com/AhirwalDevendra/EDA-on-Online-Sales)**:- Analyzing sales data using **Python** libraries such as **Matplotlib**, **Pandas**, **NumPy**, **Seaborn**, and **Plotly** to create detailed visualizations and insights. This project includes trend analysis, data-driven decision support.
 
-- **[Project 2: E-Commerce Performance Analysis](https://github.com/AhirwalDevendra/E_Commerce-Analysis)**: Performed data extraction and analysis using **SQL** to gain valuable insights into customer behavior, product sales, and operational efficiency. The project involves SQL queries to filter, aggregate, and analyze large datasets, providing actionable insights for business improvement.
+- **[Project 2: E-Commerce Performance Analysis](https://github.com/AhirwalDevendra/E-COMMERCE-ANALYTICS)**: Developed an end-to-end Power BI Dashboard using SQL and Power BI on a real-world e-commerce dataset, implementing a star schema with 7 related tables and optimizing relationships for accurate, interactive reporting.
 
 ## 📫 **Get in Touch**
 I’m always open to new opportunities, collaborations, or discussions on data analysis and visualization. Feel free to reach out!
