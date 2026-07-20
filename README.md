@@ -16,9 +16,8 @@ I’m continually learning and evolving in the field of **Data Analysis**. Right
 
 ## 🗂️ **Notable Projects**
 Here are some of my key projects:
-- **[Project 1:EDA on Online Sales](https://github.com/AhirwalDevendra/EDA-on-Online-Sales)**:- Analyzing sales data using **Python** libraries such as **Matplotlib**, **Pandas**, **NumPy**, **Seaborn**, and **Plotly** to create detailed visualizations and insights. This project includes trend analysis, data-driven decision support.
-
-- **[Project 2: E-COMMERCE ANALYTICS](https://github.com/AhirwalDevendra/E-COMMERCE-ANALYTICS)**: Developed an end-to-end Power BI Dashboard using SQL and Power BI on a real-world e-commerce dataset, implementing a star schema with 7 related tables and optimizing relationships for accurate, interactive reporting.
+- **[Project : E-COMMERCE ANALYTIC (POWER BI)S](https://github.com/AhirwalDevendra/E-COMMERCE-ANALYTICS (POWER BI))**: Developed an end-to-end Power BI Dashboard using SQL and Power BI on a real-world e-commerce dataset, implementing a star schema with 7 related tables and optimizing relationships for accurate, interactive reporting.
+- - **[Project 2:EDA on Online Sales](https://github.com/AhirwalDevendra/TURNAROUND-TIME-ANALYSIS-SQL-)**:- This project focuses on analyzing Turnaround Time (TAT) for operational tasks across multiple departments. The goal is to evaluate performance, identify delays, and monitor service efficiency using structured SQL queries.
 
 ## 📫 **Get in Touch**
 I’m always open to new opportunities, collaborations, or discussions on data analysis and visualization. Feel free to reach out!
