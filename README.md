@@ -1,29 +1,72 @@
-# Devendra Ahirwal – Data Analyst
+# 👋 Devendra Ahirwal – Data Analyst
 
-Welcome to my GitHub profile! I'm **Devendra Ahirwal**, a passionate **Data Analyst** focused on turning raw data into actionable insights. I specialize in **SQL**, **Python**, **Excel**, and **Power BI**, and I enjoy using these tools to solve real-world problems and contribute to data-driven decision-making.
+Welcome to my GitHub! I’m **Devendra Ahirwal**, a Data Analyst passionate about transforming raw data into meaningful insights that drive business decisions. I work extensively with **SQL, Python, Excel, and Power BI** to solve real-world problems and build impactful data solutions.
 
-## 🛠️ **Skills & Tools**
-- **Data Analysis**: SQL, Python (Pandas, NumPy), Excel, Power BI
-- **Data Visualization**: Creating interactive dashboards and reports using Power BI, Python libraries (Matplotlib, Seaborn, Plotly)
-- **Problem Solving**: Extracting and analyzing complex data to uncover trends and actionable insights
+---
 
-## 📜 **Certifications**
-- **Data Science Master's** from **PW Skills**
-- **Career Essentials in Data Analysis 's** from **Microsoft and LinkedIn**
+## 🛠️ Skills & Tools
 
-## 🌱 **Current Focus**
-I’m continually learning and evolving in the field of **Data Analysis**. Right now, I’m diving into **Machine Learning** concepts to enhance my data analysis capabilities.
+**📊 Data Analysis**
+SQL • Python (Pandas, NumPy) • Excel • Power BI
 
-## 🗂️ **Notable Projects**
-Here are some of my key projects:
-- **[Project : E-COMMERCE ANALYTIC (POWER BI)S](https://github.com/AhirwalDevendra/E-COMMERCE-ANALYTICS (POWER BI))**: Developed an end-to-end Power BI Dashboard using SQL and Power BI on a real-world e-commerce dataset, implementing a star schema with 7 related tables and optimizing relationships for accurate, interactive reporting.
-- - **[Project 2:EDA on Online Sales](https://github.com/AhirwalDevendra/TURNAROUND-TIME-ANALYSIS-SQL-)**:- This project focuses on analyzing Turnaround Time (TAT) for operational tasks across multiple departments. The goal is to evaluate performance, identify delays, and monitor service efficiency using structured SQL queries.
+**📈 Data Visualization**
+Power BI Dashboards • Matplotlib • Seaborn • Plotly
 
-## 📫 **Get in Touch**
-I’m always open to new opportunities, collaborations, or discussions on data analysis and visualization. Feel free to reach out!
+**🧠 Core Strengths**
+Data Cleaning • Data Modeling • Analytical Thinking • Problem Solving
 
-- **Email**: [ahirwal.devendra09@gmail.com](https://mail.google.com/mail/u/2/#inbox?compose=new)
-- **LinkedIn**: [www.linkedin.com/in/devendraahirwal009](https://www.linkedin.com/in/devendraahirwal009)
+---
 
-Thank you for visiting my GitHub! 🙏
+## 📜 Certifications
 
+* Data Science Master’s Program – PW Skills
+* Career Essentials in Data Analysis – Microsoft & LinkedIn
+
+---
+
+## 🌱 Current Focus
+
+I’m continuously improving my analytical skills and currently expanding into **Machine Learning** to build more advanced, predictive data solutions.
+
+---
+
+## 📂 Notable Projects
+
+### 🔹 E-Commerce Analytics (Power BI)
+
+Developed an end-to-end Power BI dashboard using SQL and Power BI on a real-world e-commerce dataset.
+
+* Implemented a **star schema with 7+ tables**
+* Built interactive dashboards for business insights
+* Optimized relationships for accurate reporting
+
+🔗 https://github.com/AhirwalDevendra/E-COMMERCE-ANALYTICS
+
+---
+
+### 🔹 Turnaround Time (TAT) Analysis (SQL Project)
+
+Analyzed operational workflow data to evaluate performance and identify delays.
+
+* Performed **end-to-end SQL analysis** using joins, CTEs, and window functions
+* Built logic for **SLA breach detection and delay tracking**
+* Delivered insights on workflow bottlenecks and efficiency
+
+🔗 https://github.com/AhirwalDevendra/TURNAROUND-TIME-ANALYSIS-SQL-
+
+---
+
+## 📫 Get in Touch
+
+I’m open to opportunities, collaborations, and discussions in data analytics.
+
+📧 Email: [ahirwal.devendra09@gmail.com](mailto:ahirwal.devendra09@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/devendraahirwal009
+
+---
+
+## ⭐ About This Profile
+
+This GitHub showcases my journey in data analytics, featuring real-world projects, SQL analysis, and dashboard development.
+
+Thanks for visiting! 🙏
